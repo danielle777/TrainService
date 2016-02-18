@@ -1,0 +1,18 @@
+01:06:34.935 [WARN][nio-8080-exec-2][strationServlet] - Login "user" is already exist
+10:55:57.665 [INFO][nio-8080-exec-1][s.SignInServlet] - Passenger with login "user" sign in.
+10:56:00.913 [INFO][nio-8080-exec-3][.SignOutServlet] - User with login "user" sign out.
+10:56:04.166 [INFO][nio-8080-exec-7][s.SignInServlet] - Passenger with login "user" sign in.
+10:56:06.074 [INFO][nio-8080-exec-9][.SignOutServlet] - User with login "user" sign out.
+10:56:09.185 [INFO][nio-8080-exec-3][s.SignInServlet] - Passenger with login "user" sign in.
+12:19:10.140 [INFO][nio-8080-exec-1][s.SignInServlet] - Passenger with login "user" sign in.
+19:02:18.112 [INFO][nio-8080-exec-2][strationServlet] - User with login "äàíà23 sign up.
+19:02:27.972 [INFO][nio-8080-exec-4][.SignOutServlet] - User with login "äàíà23" sign out.
+19:02:56.805 [WARN][nio-8080-exec-9][strationServlet] - Login "äàíà23" is already exist
+19:03:17.360 [INFO][nio-8080-exec-1][s.SignInServlet] - Passenger with login "äàíà23" sign in.
+19:04:21.004 [INFO][nio-8080-exec-8][.SignOutServlet] - User with login "äàíà23" sign out.
+20:07:21.344 [WARN][nio-8080-exec-3][strationServlet] - Login "user" is already exist
+20:07:44.238 [INFO][nio-8080-exec-4][strationServlet] - User with login "dana93 sign up.
+20:08:04.007 [INFO][nio-8080-exec-8][.SignOutServlet] - User with login "dana93" sign out.
+20:08:15.251 [INFO][nio-8080-exec-2][s.SignInServlet] - Passenger with login "dana93" sign in.
+20:09:59.908 [INFO][nio-8080-exec-3][.SignOutServlet] - User with login "dana93" sign out.
+20:10:07.270 [WARN][nio-8080-exec-8][strationServlet] - Login "user" is already exist

@@ -1,0 +1,15 @@
+<taglib>
+  <tlib-version>1.0</tlib-version>
+  <jsp-version>2.0</jsp-version>
+  <short-name>My teg1</short-name>
+
+  
+   <tag>
+    <name>i18n</name>
+    <tag-class>com.epam.lab.project.i18n.I18nTeg</tag-class>
+    <body-content>empty</body-content>
+    	<attribute>
+       <name>id</name>
+    </attribute>
+  </tag>
+</taglib>
