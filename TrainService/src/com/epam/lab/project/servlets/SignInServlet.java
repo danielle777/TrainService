@@ -75,5 +75,8 @@ public class SignInServlet extends HttpServlet {
             request.setAttribute("err","Incorrect username or password");
             request.getRequestDispatcher("pages/signIn.jsp").forward(request, response);
         }
+        
+        
+        System.out.println("Some changes");
     }
 }
